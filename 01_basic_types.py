@@ -1,5 +1,5 @@
-name = 'Icel' 
-age = 19
+name = 'Icel' # name is a String/str for it is a word
+age = 19 # age is whole number so it is an integer/int
 
 print(name) # Icel
 print(age) # 19
